@@ -1,2 +1,1 @@
-# KipJayChou.github.io
-我的博客
+### 我的Hugo Blog：用于记载网络空间安全学习
